@@ -1,2 +1,7 @@
 .classpath
 .project
+*.bin
+*.class
+*.project
+*.prefs
+module-info.java
